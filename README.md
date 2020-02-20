@@ -22,7 +22,7 @@ What things you need to install the software
 -Heroku
 -Yarn
 -React
--Npm
+
 
 ## Screenshots of the display
 
@@ -59,8 +59,8 @@ See also the repository specifically for this activity -
 
 ## Acknowledgments
 
-* Darcey Meus and Dan Shelly worked on the backend part of the application.
+* Darcey Meus, Josh Eskew and Dan Shelly worked on the backend part of the application.
 * Josh Eskew and Tamara Golub worked on the front-end design and formatting. 
-* Tamara Golub worked on the ReadMe file and the presentation of the project.
-* This assignment was challenging and fun!!
+
+
 
